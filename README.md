@@ -258,3 +258,5 @@ onMessageBoardUpdated() {
 ```
 
 ![](assets/Snipaste_2022-10-28_17-06-22.png)
+
+![](assets/2022-10-28 17-30-50.mp4)
