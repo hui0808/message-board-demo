@@ -1,0 +1,8 @@
+.msg-input-container.hide {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.msg-input {
+    width: 400px;
+}
