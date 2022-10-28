@@ -259,4 +259,8 @@ onMessageBoardUpdated() {
 
 ![](assets/Snipaste_2022-10-28_17-06-22.png)
 
-![](assets/2022-10-28 17-30-50.mp4)
+
+
+https://user-images.githubusercontent.com/54946713/198558692-e0c9226a-cf3a-454d-8a28-bc7063312cbf.mp4
+
+
